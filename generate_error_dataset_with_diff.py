@@ -31,9 +31,9 @@ import yaml
 
 # 定数定義
 SOURCE_URL = "https://raw.githubusercontent.com/sarulab-speech/jsut-label/master/e2e_symbol/phoneme.yaml"
-OUTPUT_YAML = "/Users/kurihara/Downloads/basic5000_accent_error.yaml"
-OUTPUT_TSV = "/Users/kurihara/Downloads/basic5000_diff.tsv"
-OUTPUT_HTML = "/Users/kurihara/Downloads/basic5000_diff.html"
+OUTPUT_YAML = "basic5000_accent_error.yaml"
+OUTPUT_TSV = "basic5000_diff.tsv"
+OUTPUT_HTML = "basic5000_diff.html"
 
 # 日本語母音セット
 VOWELS = {"a", "i", "u", "e", "o"}
