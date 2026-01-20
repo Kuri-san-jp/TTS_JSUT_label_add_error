@@ -116,7 +116,7 @@ This tool is provided for research purposes. Please refer to the original JSUT c
 
 ## References
 
-- JSUT corpus: https://sites.google.com/site/shinaborulab/home/resources/jsut
+- JSUT corpus: https://github.com/sarulab-speech/jsut-label
 - Kubozono, H. (1999). *Mora and Syllable*. In N. Tsujimura (Ed.), The Handbook of Japanese Linguistics.
 
 ## Acknowledgments
